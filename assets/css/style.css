@@ -547,7 +547,7 @@ hr.rounded {
         background-color: #1488e1;
         background-size: 100% 900px;
         background-repeat: no-repeat;
-        background-image: url(../../assets/img/bg.png)
+        background-image: url(assets/img/bg.png)
     
     
     }
@@ -1038,7 +1038,7 @@ hr.rounded {
         overflow: hidden;
         padding: 100px 0 0 0;
         background-color: #fff;
-        background-image: url(file:///Volumes/Work/00%20Work/04%20CXOSpace/05%20HTML/01%20Website/CXO-Web_V04/assets/img/bg.png)
+        background-image: url(assets/img/bg.png)
     
     }
 
@@ -1180,7 +1180,7 @@ hr.rounded {
     overflow: hidden;
     padding: 100px 0 0 0;
     background-color: #fff;
-    background-image: url(file:///Volumes/Work/00%20Work/04%20CXOSpace/05%20HTML/01%20Website/CXO-Web_V04/assets/img/scalebg.png)
+    background-image: url(assets/img/scalebg.png)
 
 }
 
@@ -2337,7 +2337,7 @@ hr.rounded {
         overflow: hidden;
         padding: 140px 0 0 0;
         background-color: #072b43;
-        background-image: url(file:///Volumes/Work/00%20Work/BizStack/05%20HTML/01%20Website/CXOPicks-New_Local%20/assets/img/hero-img.png)
+        background-image: url(assets/img/hero-img.png)
     }
 
 
